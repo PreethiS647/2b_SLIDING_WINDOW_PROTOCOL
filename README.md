@@ -1,4 +1,8 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+
+## Developed by: Preethi S
+## Register no: 212223230157
+
 ## AIM
 ## ALGORITHM:
 1. Start the program.
